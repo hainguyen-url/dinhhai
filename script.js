@@ -106,7 +106,7 @@ function portfolioItemDetails(porfolioItem){
 
 
 var x = 0;
-var textEffect = 'Nguyen Trung Kien';
+var textEffect = 'Nguyen Dinh Hai';
 var container = document.getElementById("effect");
 
 function animate(){
