@@ -53,9 +53,7 @@ body {
 
 }
 .dark-theme {
-
     background-image: linear-gradient(to bottom right , var(--dark-theme), var(--cyan-light));
-
 }
 body.hide-scrolling {
     overflow-y: hidden;
